@@ -1,0 +1,58 @@
+{
+	"name":"@killovsky/mal",
+	"version":"1.0.0",
+	"description":"Repositório do modulo de scrapper do MyAnimeList.",
+	"main":"index.js",
+	"scripts":{
+		"test":"node test.js"
+	},
+	"repository":{
+		"type":"git",
+		"url":"git+https://github.com/KillovSky/MyAnimeList.git"
+	},
+	"keywords":[
+		"big",
+		"japan",
+		"japanese",
+		"waifu",
+		"girls",
+		"genre",
+		"manga",
+		"mangas",
+		"myanimelist",
+		"my anime list",
+		"anime",
+		"animes",
+		"api",
+		"data",
+		"easy",
+		"forum",
+		"information",
+		"mal",
+		"otaku",
+		"powerful",
+		"random",
+		"server",
+		"srapper"
+	],
+	"author":"KillovSky",
+	"license":"MIT",
+	"bugs":{
+		"url":"https://github.com/KillovSky/MyAnimeList/issues"
+	},
+	"homepage":"https://github.com/KillovSky/MyAnimeList#readme",
+	"funding":[
+		{
+			"type":"kofi",
+			"url":"http://ko-fi.com/killovsky"
+		},
+		{
+			"type":"paypal",
+			"url":"https://bit.ly/33QDaGa"
+		},
+		{
+			"type":"picpay",
+			"url":"https://picpay.me/userlucas123"
+		}
+	]
+}

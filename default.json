@@ -1,0 +1,566 @@
+[
+	{
+		"date":"16/10/2022 23:49:47",
+		"error":false,
+		"error_msg":false,
+		"code":200,
+		"explain":{
+			"code":"OK",
+			"why":"The request is OK, this response depends on the HTTP method used."
+		},
+		"headers":{
+			"content-type":"text/html; charset=utf-8",
+			"transfer-encoding":"chunked",
+			"connection":"close",
+			"date":"Mon, 17 Oct 2022 02:49:45 GMT",
+			"server":"Apache",
+			"cache-control":"no-cache",
+			"vary":"User-Agent",
+			"referrer-policy":"same-origin",
+			"x-xss-protection":"1; mode=block",
+			"x-content-type-options":"nosniff",
+			"x-frame-options":"SAMEORIGIN",
+			"strict-transport-security":"max-age=63072000; includeSubDomains; preload",
+			"x-cache":"Miss from cloudfront",
+			"x-amz-cf-pop":"GRU1-C2"
+		},
+		"MAL":{
+			"url":"https://myanimelist.net/anime/1/Cowboy_Bebop",
+			"image":"https://cdn.myanimelist.net/images/anime/4/19644.jpg",
+			"title":"Cowboy Bebop",
+			"title_synonyms":false,
+			"title_japanese":"カウボーイビバップ",
+			"title_french":false,
+			"title_english":"Cowboy Bebop",
+			"sort":{
+				"url":"https://myanimelist.net/topanime.php?type=tv",
+				"type":"TV"
+			},
+			"episodes":"26",
+			"list":{
+				"data":[
+					{
+						"platform":{
+							"id":1,
+							"name":"Crunchyroll",
+							"icon":"crunchyroll",
+							"type":1
+						},
+						"available":true,
+						"url":"http://www.crunchyroll.com/series-271225"
+					},
+					{
+						"platform":{
+							"id":4,
+							"name":"Funimation",
+							"icon":"funimation",
+							"type":1
+						},
+						"available":false,
+						"url":"https://www.funimation.com/shows/cowboy-bebop"
+					},
+					{
+						"platform":{
+							"id":2,
+							"name":"Netflix",
+							"icon":"netflix",
+							"type":1
+						},
+						"available":false,
+						"url":"https://www.netflix.com/title/80001305"
+					},
+					{
+						"platform":{
+							"id":30,
+							"name":"Tubi TV",
+							"icon":"tubitv",
+							"type":2
+						},
+						"available":false,
+						"url":"https://tubitv.com/series/2052/cowboy-bebop-subtitled"
+					}
+				],
+				"count":{
+					"available":1,
+					"typicals":3,
+					"others":1,
+					"total":4
+				}
+			},
+			"status":"Finished Airing",
+			"duration":"24 min. per ep.",
+			"score":{
+				"votes":"865196",
+				"value":"8.75"
+			},
+			"rank":"40",
+			"popularity":"43",
+			"members":"1,675,155",
+			"favorites":"74,440",
+			"rating":"R - 17+ (violence & profanity)",
+			"external":[
+				{
+					"name":"Official Site",
+					"url":"http://www.cowboy-bebop.net/"
+				},
+				{
+					"name":"AnimeDB",
+					"url":"http://anidb.info/perl-bin/animedb.pl?show=anime&amp;aid=23"
+				},
+				{
+					"name":"AnimeNewsNetwork",
+					"url":"http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13"
+				},
+				{
+					"name":"Wikipedia",
+					"url":"http://en.wikipedia.org/wiki/Cowboy_Bebop"
+				}
+			],
+			"characters":[
+				{
+					"voice":{
+						"name":"Yamadera, Kouichi",
+						"url":"https://myanimelist.net/people/11/Kouichi_Yamadera",
+						"images":[
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60992.jpg?s=0067cab8047c83439ff3c7cafee3996b",
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60992.jpg?s=0067cab8047c83439ff3c7cafee3996b",
+							"https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/60992.jpg?s=0cb8ef6aede89f2376e8848777287222"
+						]
+					},
+					"name":"Spiegel, Spike",
+					"url":"https://myanimelist.net/character/1/Spike_Spiegel"
+				},
+				{
+					"voice":{
+						"name":"Hayashibara, Megumi",
+						"url":"https://myanimelist.net/people/14/Megumi_Hayashibara",
+						"images":[
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/63419.jpg?s=601b4dcc01cb37560ff4478d0ca0956b",
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/63419.jpg?s=601b4dcc01cb37560ff4478d0ca0956b",
+							"https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/63419.jpg?s=4166a0690f75f6ee6275e2bf8c920ce5"
+						]
+					},
+					"name":"Valentine, Faye",
+					"url":"https://myanimelist.net/character/2/Faye_Valentine"
+				},
+				{
+					"voice":{
+						"name":"Tada, Aoi",
+						"url":"https://myanimelist.net/people/658/Aoi_Tada",
+						"images":[
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70421.jpg?s=612e6cc06025203d526cc3aef355069d",
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/70421.jpg?s=612e6cc06025203d526cc3aef355069d",
+							"https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/70421.jpg?s=274a6b38da0a7a77250c354d2410bf56"
+						]
+					},
+					"name":"Wong Hau Pepelu Tivrusky IV, Edward",
+					"url":"https://myanimelist.net/character/16/Edward_Wong_Hau_Pepelu_Tivrusky_IV"
+				},
+				{
+					"voice":{
+						"name":"Ishizuka, Unshou",
+						"url":"https://myanimelist.net/people/357/Unshou_Ishizuka",
+						"images":[
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/17135.jpg?s=5925123b8a7cf9b51a445c225442f0ef",
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/17135.jpg?s=5925123b8a7cf9b51a445c225442f0ef",
+							"https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/17135.jpg?s=3e8808eaa341ce3b36cb283b1e738ca5"
+						]
+					},
+					"name":"Black, Jet",
+					"url":"https://myanimelist.net/character/3/Jet_Black"
+				},
+				{
+					"voice":{
+						"name":"Yamadera, Kouichi",
+						"url":"https://myanimelist.net/people/11/Kouichi_Yamadera",
+						"images":[
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60992.jpg?s=0067cab8047c83439ff3c7cafee3996b",
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/60992.jpg?s=0067cab8047c83439ff3c7cafee3996b",
+							"https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/60992.jpg?s=0cb8ef6aede89f2376e8848777287222"
+						]
+					},
+					"name":"Ein",
+					"url":"https://myanimelist.net/character/4/Ein"
+				},
+				{
+					"voice":{
+						"name":"Wakamoto, Norio",
+						"url":"https://myanimelist.net/people/84/Norio_Wakamoto",
+						"images":[
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/46186.jpg?s=38bd38ad4b89e9d0172660926a66aa70",
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/46186.jpg?s=38bd38ad4b89e9d0172660926a66aa70",
+							"https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/46186.jpg?s=a6a4034f83661149bc962e0855875433"
+						]
+					},
+					"name":"Vicious",
+					"url":"https://myanimelist.net/character/2734/Vicious"
+				},
+				{
+					"voice":{
+						"name":"Horiuchi, Kenyuu",
+						"url":"https://myanimelist.net/people/262/Kenyuu_Horiuchi",
+						"images":[
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/70689.jpg?s=f28e19f902460f74a534b22df5e13cb0",
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/70689.jpg?s=f28e19f902460f74a534b22df5e13cb0",
+							"https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/70689.jpg?s=7b4669010cc82f6107865230c515f3b4"
+						]
+					},
+					"name":"Eckener, Grencia Mars Elijah Guo",
+					"url":"https://myanimelist.net/character/2736/Grencia_Mars_Elijah_Guo_Eckener"
+				},
+				{
+					"voice":{
+						"name":"Ebara, Masashi",
+						"url":"https://myanimelist.net/people/179/Masashi_Ebara",
+						"images":[
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/49817.jpg?s=3222485610307163a2a9f1c0a30a7ff9",
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/3/49817.jpg?s=3222485610307163a2a9f1c0a30a7ff9",
+							"https://cdn.myanimelist.net/r/84x124/images/voiceactors/3/49817.jpg?s=8f6c35d70e732073e300356f03d186f2"
+						]
+					},
+					"name":"Von de Oniyate, Andy",
+					"url":"https://myanimelist.net/character/23740/Andy_Von_de_Oniyate"
+				},
+				{
+					"voice":{
+						"name":"Takashima, Gara",
+						"url":"https://myanimelist.net/people/497/Gara_Takashima",
+						"images":[
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/65618.jpg?s=33c9696173de3e5af041b5f535ee631d",
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/2/65618.jpg?s=33c9696173de3e5af041b5f535ee631d",
+							"https://cdn.myanimelist.net/r/84x124/images/voiceactors/2/65618.jpg?s=e7e465e54883f56e0e154126fabea2bf"
+						]
+					},
+					"name":"Julia",
+					"url":"https://myanimelist.net/character/2735/Julia"
+				},
+				{
+					"voice":{
+						"name":"Ginga, Banjou",
+						"url":"https://myanimelist.net/people/330/Banjou_Ginga",
+						"images":[
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44678.jpg?s=78d79cffe7708cf377fc8df1bd32c3e5",
+							"https://cdn.myanimelist.net/r/42x62/images/voiceactors/1/44678.jpg?s=78d79cffe7708cf377fc8df1bd32c3e5",
+							"https://cdn.myanimelist.net/r/84x124/images/voiceactors/1/44678.jpg?s=66402b1a5057624c0c1566164c678a10"
+						]
+					},
+					"name":"Mad Pierrot",
+					"url":"https://myanimelist.net/character/29313/Mad_Pierrot"
+				}
+			],
+			"ost":[
+				{
+					"hear":{
+						"spotify":"https://open.spotify.com/track/2VqRxxZFbC0uZaTJcZY36c",
+						"apple":"https://music.apple.com/jp/album/tank/489780131?i=489780142",
+						"amazon":"https://music.amazon.co.jp/search/Tank!%20%20Seatbelts?filter=IsLibrary%7Cfalse&amp;sc=none",
+						"youtube":false,
+						"other":false
+					},
+					"name":"Tank!",
+					"by":"The Seatbelts",
+					"ep":"1-25"
+				},
+				{
+					"hear":{
+						"spotify":"https://open.spotify.com/track/3hhiF1IJa3inOKToUylE7B",
+						"apple":"https://music.apple.com/jp/album/the-real-folk-blues/489810116?i=489810123",
+						"amazon":"https://music.amazon.co.jp/search/The%20Real%20Folk%20Blues?filter=IsLibrary%7Cfalse&amp;sc=none",
+						"youtube":false,
+						"other":false
+					},
+					"name":"The Real Folk Blues",
+					"by":"The Seatbelts feat. Mai Yamane",
+					"ep":" 1-12, 14-25"
+				},
+				{
+					"hear":{
+						"spotify":"https://open.spotify.com/track/3sfGNDbV1LvbmSPzivBFs8",
+						"apple":"https://music.apple.com/jp/album/space-lion/489780131?i=489780220",
+						"amazon":"https://music.amazon.co.jp/search/Space%20Lion?filter=IsLibrary%7Cfalse&amp;sc=none",
+						"youtube":false,
+						"other":false
+					},
+					"name":"Space Lion",
+					"by":"The Seatbelts",
+					"ep":"13"
+				},
+				{
+					"hear":{
+						"spotify":"https://open.spotify.com/track/3to42U3gINcBO7oStx7qlh",
+						"apple":"https://music.apple.com/jp/album/blue/489778227?i=489778351",
+						"amazon":"https://music.amazon.co.jp/search/Blue%E3%80%80%E5%B1%B1%E6%A0%B9%E9%BA%BB%E8%A1%A3?filter=IsLibrary%7Cfalse&amp;sc=none",
+						"youtube":false,
+						"other":false
+					},
+					"name":"Blue",
+					"by":"The Seatbelts feat. Mai Yamane",
+					"ep":"26"
+				}
+			],
+			"reviews":[
+				{
+					"name":"TheLlama",
+					"date":"Aug 24, 2008",
+					"url":"https://myanimelist.net/profile/TheLlama",
+					"at":"https://myanimelist.net/anime/1/Cowboy_Bebop/reviews",
+					"review":"People who know me know that Im not a fan of episodic anime series unless theyre either one season (12-14 episodes) long or a slice of life series. Why? They have a tendency to get boring, or repetitive. But all rules and preferences have exceptions. You know what? Cowboy Bebop is that exception.\nThe story is set in a space western setting - a genre and setting Im loving more and more for each show I watch that falls under the genre. We follow two bounty hunters, Spike and Jet, who own a ship called the Bebop. They travel the Solar system, chasing wanted criminals to  earn money. Along the way, they also pick up two women; the debt-laden Faye Valentine and the playful kid and computer genius Edward (yes, Ed&amp;rsquo;s a girl). \nEach episode brings about a new bounty which they chase after, and while that doesnt sound too exciting to watch 26 episodes in a row, youll end up loving the show. All the different events makes for a certain degree of unpredictability, and youll sometimes wonder how things will end. However, that alone is not enough to give the story the rating Ive given it. So why have I given that rating? Lets continue...\nOne of the things that elevate the show a bit above the rest is the manner in which the main casts pasts are explored. Its not like one flashback episode and you understand everything about how they are today. In one episode you might get one piece, and then the next one in another episode, and its not until the final three episodes of the show that everything falls in place. This way of executing it makes you want to watch another episode, so that you can find out more about the characters (some may say that this falls in under &amp;quot;Character&amp;quot;, but the manner in which the pasts are explored are more &amp;quot;Story&amp;quot; than &amp;quot;Character&amp;quot;, IMO). Now, thats so far a 9 for the story. Why did it deserve a 10?\nThe answer is easy: the way they executed many scenes in the show. The contrasts which you get to see between, music, the setting of scenes and whats really happening just gives the story that extra edge deserving of a perfect score.\nThe characters are all really good and interesting fellows. Though they every now and then reminded me of characters from other shows, they preserved that originality which gave a feel that they were, if not completely, then at least a little bit more real than most characters out there. The way their pasts intertwine with the future and how everything ends with them confronting and settling open ends from their pasts is also something thats impressive to watch. I dont really have anything more to say than &amp;quot;perfect&amp;quot;.\nThe animation is, for a 90s anime, stunningly good. The detail put into backgrounds and surroundings is really good, and I also love how good lighting effects and shading are at times. All of Ed&amp;rsquo;s strange movements are animated really nicely too. If theres something negative, its the somewhat dull coloring (compared to todays standards), as well as poor effects when traveling in hyperspace.\nThe soundtrack is also astounding! The music used for the show is so incredibly varied, and while keeping mostly to the more jazzy tunes, the soundtrack visits so many genres that its hard to not like at least a few pieces. What I also loved is the way the music was used not only as a medium to go with and amplify the mood, but also as a contrast to whats happening in several scenes. All in all, its really amazing. Dont have anything to say against voice acting and other sound effects either.\nAll in all Cowboy Bebop is an anime that&amp;rsquo;s in the top tier on the greatness scale, and a show I believe every anime fan should give a try.\n"
+				},
+				{
+					"name":"Polyphemus",
+					"date":"Jul 10, 2013",
+					"url":"https://myanimelist.net/profile/Polyphemus",
+					"at":"https://myanimelist.net/anime/1/Cowboy_Bebop/reviews",
+					"review":"Cowboy Bebop is one of those series that is just impossible to criticize. Not because it has no flaws, but because it has rabid fans who will defend it to the death. It has obtained the mythical “classic armor,” which is an abhorrent carte blanche, bestowed upon only the most overrated of anime, that is used to automatically defend against any sort of legitimate criticism. Cowboy Bebop certainly has good qualities, and it is relevant in how it influenced western perception of anime, but it wasnt quite groundbreaking or revolutionary in and of itself. You could argue that its audiovisuals were in fact groundbreaking, but  I think a work needs more than superficial qualities to be truly revolutionary or great.\n<br />\nCowboy bebop borrows much from western media and pop culture in general. his show pays homage to or references, subtly and overtly, things as disparate as Antonio Banderas, Bruce Lee, John Woo, Kareem Abdul-Jabbar, Convoy, Biggie Smalls, Donald Duck, various mythologies and folktales, The Rolling Stones, Aerosmith, Bill Evans, Stray Cats, Alien, blaxploitation films, 2001: A Space Odyssey, Queen, George Clooney, Led Zeppelin, Django and other spaghetti westerns, Herbie Hancock, American and Japanese professional baseball, Yellow Magic Orchestra, Jean-Luc Godard, Batman,  B.B. King, Beverly Hills 90210, John Belushi, Dan Aykroyd, The Unabomber, Heavens Gate and Marshall Applewhite, Kiss, film noir, The Beatles, Sleeping Beauty, Bonny &amp; Clyde, Ziggy Stardust, Charlie Parker, Woody Allen, Star Trek, Cool Hand Luke, and Taxi Driver. I kid you not. And thats not a complete list. References in character design and dialogue are forgivable, but when it straight up copies scenes and plots then I think it can be held against the show. I feel like Ive seen Cowboy Bebop before, its just been packed into a pretty package. I enjoyed a lot of these homages, but that does not excuse the marked lack of creativity. The mere evocation of a masterpiece does not make a masterpiece. Quentin Tarantino is an example of someone who uses pastiche and cultural references well, and most importantly, his references and homages dont make up his entire videography. There is far too little originality in Cowboy Bebop. \n<br />\nThe fact is that Cowboy Bebop is the epitome of style over substance. I can appreciate it for its audiovisuals, but, to me, a show needs more than that to be a true masterpiece. Make no mistake though, it does have some of the best audiovisuals Ive ever seen, and could arguably be considered a must-watch for that alone. The OST is good (despite also being a tad overrated,) the art is great, and the animation is extremely fluid. It should also be noted that Cowboy Bebop is one of the few anime that holds the distinction of having an English dub superior to the original Japanese. The atmosphere that the audiovisuals achieve is their greatest quality, and is distinct in almost every different setting. This is not done well in most space travel anime, and I have to applaud Cowboy Bebop for that achievement at least. \n<br />\nThe main storyline consists of about 5 episodes, the rest of them being episodic individual stories. This wouldnt be a huge problem, but the episodic stories were hit or miss, and they never measured up to the main plot. Some of the non-main episodes focus on a character and their past, and this is good, but most of them are completely pointless and could be removed without anybody noticing. One of them was about fighting an alien-fungus-fridge-monster, it was an interesting and silly parody of Alien, but it contributed nothing to plot or character development. Considering how character driven this show is, thats a problem. There was also an entire episode paying homage to blaxploitation. Seeing as the allusion was presented in a more original way, and the episode showed a lot about Eds character, that one was not only forgivable, but it was one of my favorite episodes. Like I said, hit or miss. There is an episode about catching a super-dog. There is an episode about a virus that turns people into monkeys. There is an episode where they chase a bomber (Woody Allen) with some help from a transsexual looking trucker. At least 4 episodes were easily 10s, but more of them were closer to 5s. The first 4 episodes were particularly weak, which is a huge problem in a 2 cour anime. The anime may have had a good conclusion, but the sub-par exposition cannot be ignored. \n<br />\nThe main crew was made up of interesting and entertaining characters, and they prevented the episodic nature of the show from being a complete flop, although there were some unanswered questions about Fayes past in particular. Actually, strangely enough, the unanswered questions contributed to the splendid atmosphere. Everything had a rich backstory, but few flashbacks and no infodumps. This helped give the show its characteristic nostalgic atmosphere. One complaint I would have is that the main antagonist is simply not compelling, his motivations are somewhat unclear, and hes just one dimensional. He also uses a katana, even though it’s the future, and somehow still manages to kick ass. He’s just very cliché and lame. The antagonist in the movie was very well done with his depth, motives, and parallels to Spike, and that makes me wish Vicious got the same treatment, as it would fit his character far better, and his character is far more important. \n<br />\nOne thing you should understand is that the characters are often good examples of clichés done well. Jet, for instance, is the typical hard-boiled former cop, but he is also the most empathetic of the crew. He is a foil to Spike and is hard working, but they also parallel in many ways. Ed is the teen genius/tomboy and hacker with little depth, but she also serves as a foil to Spike and many of his views on life. Faye is like a mix of all of the other characters worst traits in terms of personality, but she still manages to be a sympathetic character. In fact, even though she keeps up her unpleasant exterior and despite her being the animes main source of fanservice, she arguably experiences more development than any other character. Still, they lack any sort of real innovation, in anime or otherwise.\n<br />\nDespite all my criticisms, Cowboy Bebop is cool. Its very cool. The characters and aesthetics were compelling (for the most part) to the point where I even enjoyed some of the admittedly weaker episodes. I cant give it a 10, its simply not a masterpiece. I cant give it a 9, its not truly great. I cant give it an 8, its too flawed and unoriginal. I don’t want to give it a 7, it was just too inconsistent. I have to settle on a 6.7 or so, which could be rounded either way. That said, an average of my story, art, sound, and character scores did give me around a 7.2. \n<br />\nCowboy Bebop is enjoyable and it has wide appeal; I would probably recommend it to just about anybody. It was up and down in terms of quality, and it was similar to a slice-of-life in its episodic and relaxed nature and its lack of an explosive climax, but it was good. I liked how the anime takes place after the &quot;important part&quot; of the main characters lives is over, and nostalgia becomes a huge theme, seeing as it was the first anime I ever watched and it thus evokes a huge sense of nostalgia for me anyway. I loved the laid back atmosphere. The problem is that after looking through all of the episodes and rating them individually, I realized that the majority of it was nothing special. With a little restraint and reworking, Cowboy Bebop could have been the masterpiece that it is widely regarded as, and it does hold a special place in my heart regardless, even if that is only due to it being my first anime. That bias is probably why I choose to round the score to 7, rather than to 6, despite the fact that the latter is typically the better practice. \n<br />\n"
+				},
+				{
+					"name":"xm0123",
+					"date":"Jun 15, 2011",
+					"url":"https://myanimelist.net/profile/xm0123",
+					"at":"https://myanimelist.net/anime/1/Cowboy_Bebop/reviews",
+					"review":"Cowboy Bebop was originally an anime series created by Shinichiro Watanabe in 1998. It consists of 26 episodes, a mini-sode, and a theatrical movie. It was released in America in 2001, and is one of the few anime franchises to be more successful in North America than in its native Japan. I have seen the 26 tv episodes and the movie. I already know what a lot of you are doing right now after glancing at the numerical score I gave; youre hitting up the comment box on my profile and writing these exact words:\n&quot;Fuck you! Cowboy Bebop is a classic! Youre not allowed to  criticize it!&quot;\nThe more astute viewers will note that I scored the series a 6, but the movie a 9. I kind of like Cowboy Bebop. It does do some things very right. It had the potential to be one of the greatest franchises ever. Alas, while its production values are unmatched, the writing . . . doesnt always match up with the production. Because of this, the series ended up being a style-over-substance experience for me, but why was that?\nThe premise of CB is that in the late 21st century, mankind has started living in places in the solar system besides Earth. In this future are bounty hunters known as Cowboys. Cowboys do whatever they can to make cash to keep the food stockpile stocked and their spaceships running. The show follows one such group of Cowboys who pilot a ship called the Bebop. In the beginning, we meet Spike Spiegel, a former gangster, and Jet Black, a former cop. As the series progresses, the Bebop also has Ein, a super smart dog, Faye Valentine, a woman on the run, and Edward, a really, really, REALLY weird hacker girl. Cowboy Bebop has been described as a series that has a continuous plot, and has standalone episodes at the same time. Having seen the series, I can tell you that technically, most of the episodes arent standalone, but many of them are only connected by the core characters.\nHeres where one of my problems lie. When Cowboy Bebop is good, its really good. The setting is very mature; it never condescends to the audience. The action scenes are superbly well done, the dialog is believable (though cheesy at times), and the atmosphere really pulls you in. How many episodes are actually really good? Seven. If you count the movie as an episode, that brings it up to eight. Eight out of twenty-seven episodes were good. The rest were not.\nThe problem with most of the episodes is one of two things: one, its really boring, or, two, its so clichéd, you will be able to predict exactly what happens by the end after the first two minutes, or both. I have to be honest, a lot of the episodes of CB are just plain boring. If this wasnt a &quot;classic&quot; and a more ordinary anime series, a lot of them would be branded as what they truly are; filler episodes. And if its not boring filler, its hackneyed.\nWatanabe is known for being a huge fan of American cinema, and thats obvious in CB. Unfortunately, he ripped off a lot of American movies virtually piecemeal. Now, you may not suspect it, but I am more knowledgeable of American cinema than I am Japanese animation. To describe it as best I can without spoiling, if you have seen at least one movie directed by Quentin Tarantino, Robert Rodriguez, John Woo, and Michael Mann, then you have already seen Cowboy Bebop in another format. This is actually a clever trick though; most anime fans reject Western pop culture, and may not notice this when watching CB, so theyll think its &quot;fresh&quot; and &quot;original&quot;, when its fact, its actually MORE clichéd then most anime. But hey, when CB is exciting and isnt (too) blatantly ripping off Hollywood, its worth watching.\nAt least, when the worthwhile characters are onscreen. I like the main character Spike a lot. He is the embodiment of cool, like a 21st century version of Steve McQueen. Hes cool, but hes very human too. Hes reckless, he makes mistakes, but he knows how to charm people, and he also knows how to beat his targets. I also like Jet. Hes a constant worrywart, which is a funny contrast to his rough appearance. Some of the incidental characters are memorable too, (but usually only in the good episodes and movie). Something else I liked was the Bebop crew was not always a stable group, or nakama you could say. In most anime, when the heroes band together, nothing ever separates them. That doesnt happen in CB. Sometimes, the crew gets in arguments, and sometimes, one of them will leave the Bebop for a time, and so on. Its a touch of realism I appreciate.\nHowever, some of the characters didnt click with me. I never really cared for Faye. I dont dislike her, but I dont really care for her either. Edward is amusing, but she feels out of place in a series like this. The incidental characters in the less memorable episodes are just that, unmemorable. However, what Im about to print in the next paragraph will anger thousands, possibly millions. (And maybe make hundreds say &quot;Right on!&quot;) Mind you, its just my opinion. Everything I print in these reviews is just my opinion; you dont have to take it personally, but the following opinion of mine needs to be said:\nVicious is one of the lamest villains ever.\nThe main antagonist is a man known as Vicious, someone whos still a part of the gang Spike came from. Hes cunning, ruthless . . . and is absolutely lame. Whats his motive? Does he just want power, or to mess with people? Even if so, why is he so boring to watch? The villain from the movie was a lot more interesting. Overall, you got two really good protagonists, some interesting chemistry between the protagonists, one-shot characters who are either interesting or not, and a forgettable antagonist. Yay.\nAnd I havent even touched upon the ending yet! Short version, I dont like CBs ending. (More flames incoming! Duck and cover!) Now, the ending is not quite as bad as the ending for, say, Akira, or the anime version of Chobits. It does have a sense of finality to it, something most anime endings dont have. However, I did not find it &quot;legendary.&quot; I found it disappointing. First of all, the ending is extremely predictable. Its virtually telegraphed to you before it even happens. Not only that, when I saw it, my reaction was, &quot; . . . thats it? Seriously, thats IT?&quot;\nBut I better move on to CBs technical aspects before I get too letdown. Its artistry leaves no complaints. CB is probably the best-looking pre-digital anime Ive ever seen. Even if you were to remake the series with digital enhancements, I doubt you could make it look better than it already is. Sumptuous backgrounds, top-notch character art, animation that ranges from above-average to really good, no off-model shots, this is a visual feast. The movie looks even better. Its obvious a lot of care was put into the visuals of CB. My only being the primitive CGI, but you get used to it.\nAnd now we touch upon CBs greatest aspect; its soundtrack. Its the sort of the soundtrack that makes you go, &quot;Ah yeah, baby!&quot; This is why you watch CB, the music. The music is the magnum opus of Yoko Kanno. A combination of jazz, blues, and rock, but it isnt just any old jazz, blues, and rock, its GOOD jazz, blues, and rock. Everything from the opening, to the incidental music, to the endings, you get music that will set your soul on fire. The only anime Ive seen whose soundtrack could rival CBs is Death Notes. Something I noticed about CBs soundtrack is the music sounds more like music from albums rather than typical soundtrack music. Another smart move; most people are accustomed to listening to music from CD and MP3 albums as opposed to soundtracks, so when they hear CBs music, itll be more familiar-sounding than most other anime soundtracks. Regardless, even if you hate CB, you gotta score this music.\nCB is also famous for having what is perhaps the oldest English dub for an anime series that is considered god-like. I saw this on Adult Swim, and I can safely say, this is another masterpiece from Bandai and Bang Zoom. Every character sounds like how you would imagine them to, and the voices are neither wooden nor over-acted. All the different accents the characters have sound really cool too. I did sample the Japanese dub on the movie, and I will say, Spike and Jet sound really good in both Japanese and English, but I will never get used to Fayes Japanese voice. Yeah, this is one you gotta see in English. (Though in retrospect, the Japanese performances arent bad, it just doesnt click like the English dub)\nWhile CB is still often regarded as a classic, Im not the first to criticize it like so. There has been some backlash against CB in recent years. Some people complain its not &quot;Japanese-y&quot; enough, that its too Western. I mentioned that earlier, but there is another anime Ive seen, Baccano, which is also very similar to American movies, but it was consistently entertaining, and not as predictable as CB, so I did not mind. Others have mentioned the same things I have, that its boring, the plot isnt strong enough, its style over substance. This isnt a disaster by any means, but I do have to say that, outside of the production values, CB is one of the most overrated anime Ive seen. Its not one of the worst, certainly not, but its not quite the experience I was promised either. To put it in other words, there were some episodes that I would score a 4 out of 10. And yet, there are some episodes, including the movie, that I would score a 9 out of 10. The 6 overall is just from mixing the good episodes with the bad.\nI like to imagine that in an alternate dimension, CB was an OVA series instead of a tv series. All the episodes I do like, (# 2, 8, 12, 13, 17, 20, and 22) were released on separate OVAs, as well as a few others to bridge the plot gaps. Then a theatrical came out (Knocking on Heavens Door), and then another to end it all (The Real Folk Blues, albeit with a revised conclusion), and it would be grandiose. Alas, I dont live in that universe. Hey, Shinichiro Watanabe likes drawing influence from Hollywood, right? Whats something its doing a lot of right now? Continuity reboots? He could still do that. I can dream, cant I?\n"
+				}
+			],
+			"related":[
+				{
+					"name":"Cowboy Bebop",
+					"url":"https://myanimelist.net/manga/173/Cowboy_Bebop"
+				},
+				{
+					"name":"Shooting Star Bebop: Cowboy Bebop",
+					"url":"https://myanimelist.net/manga/174/Shooting_Star_Bebop__Cowboy_Bebop"
+				},
+				{
+					"name":"Cowboy Bebop: Tengoku no Tobira",
+					"url":"https://myanimelist.net/anime/5/Cowboy_Bebop__Tengoku_no_Tobira"
+				},
+				{
+					"name":"Cowboy Bebop: Ein no Natsuyasumi",
+					"url":"https://myanimelist.net/anime/17205/Cowboy_Bebop__Ein_no_Natsuyasumi"
+				},
+				{
+					"name":"Cowboy Bebop: Yose Atsume Blues",
+					"url":"https://myanimelist.net/anime/4037/Cowboy_Bebop__Yose_Atsume_Blues"
+				},
+				{
+					"name":"More characters",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop/characters"
+				}
+			],
+			"links":[
+				{
+					"name":"Details",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop"
+				},
+				{
+					"name":"Characters &amp; Staff",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop/characters"
+				},
+				{
+					"name":"Stats",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop/stats"
+				},
+				{
+					"name":"Reviews",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop/reviews"
+				},
+				{
+					"name":"Recommendations",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop/userrecs"
+				},
+				{
+					"name":"Interest Stacks",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop/stacks"
+				},
+				{
+					"name":"News",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop/news"
+				},
+				{
+					"name":"Forum",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop/forum"
+				},
+				{
+					"name":"Clubs",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop/clubs"
+				},
+				{
+					"name":"Pictures",
+					"url":"https://myanimelist.net/anime/1/Cowboy_Bebop/pics"
+				}
+			],
+			"description":"Crime is timeless. By the year 2071, humanity has expanded across the galaxy, filling the surface of other planets with settlements like those on Earth. These new societies are plagued by murder, drug use, and theft, and intergalactic outlaws are hunted by a growing number of tough bounty hunters. Spike Spiegel and Jet Black pursue criminals throughout space to make a humble living. Beneath his goofy and aloof demeanor, Spike is haunted by the weight of his violent past. Meanwhile, Jet manages his own troubled memories while taking care of Spike and the Bebop, their ship. The duo is joined by the beautiful con artist Faye Valentine, odd child Edward Wong Hau Pepelu Tivrusky IV, and Ein, a bioengineered Welsh Corgi. While developing bonds and working to catch a colorful cast of criminals, the Bebop crews lives are disrupted by a menace from Spikes past. As a rivals maniacal plot continues to unravel, Spike must choose between life with his newfound family or revenge for his old wounds. [Written by MAL Rewrite] ",
+			"stream":[
+				{
+					"name":"Crunchyroll",
+					"url":"http://www.crunchyroll.com/series-271225"
+				},
+				{
+					"name":"Funimation",
+					"url":"https://www.funimation.com/shows/cowboy-bebop"
+				},
+				{
+					"name":"Netflix",
+					"url":"https://www.netflix.com/title/80001305"
+				},
+				{
+					"name":"Tubi TV",
+					"url":"https://tubitv.com/series/2052/cowboy-bebop-subtitled"
+				}
+			],
+			"foruns":[
+				{
+					"name":"Cowboy Bebop Episode 5 Discussion",
+					"url":"https://myanimelist.net/forum/?topicid=22879"
+				},
+				{
+					"name":"Cowboy Bebop Episode 15 Discussion",
+					"url":"https://myanimelist.net/forum/?topicid=85746"
+				},
+				{
+					"name":"Cowboy Bebop Episode 6 Discussion",
+					"url":"https://myanimelist.net/forum/?topicid=101049"
+				},
+				{
+					"name":"Cowboy Bebop Episode 1 Discussion",
+					"url":"https://myanimelist.net/forum/?topicid=29264"
+				},
+				{
+					"name":"Ein being cast as a Husky in Netflix adaptation???",
+					"url":"https://myanimelist.net/forum/?topicid=1775815"
+				}
+			],
+			"recommendations":[
+				{
+					"name":"Samurai Champloo",
+					"url":"https://myanimelist.net/recommendations/anime/1-205"
+				},
+				{
+					"name":"Trigun",
+					"url":"https://myanimelist.net/recommendations/anime/1-6"
+				},
+				{
+					"name":"Black Lagoon",
+					"url":"https://myanimelist.net/recommendations/anime/1-889"
+				},
+				{
+					"name":"Seihou Bukyou Outlaw Star",
+					"url":"https://myanimelist.net/recommendations/anime/1-400"
+				},
+				{
+					"name":"Space☆Dandy",
+					"url":"https://myanimelist.net/recommendations/anime/1-20057"
+				},
+				{
+					"name":"Baccano!",
+					"url":"https://myanimelist.net/recommendations/anime/1-2251"
+				},
+				{
+					"name":"Michiko to Hatchin",
+					"url":"https://myanimelist.net/recommendations/anime/1-4087"
+				},
+				{
+					"name":"Darker than Black: Kuro no Keiyakusha",
+					"url":"https://myanimelist.net/recommendations/anime/1-2025"
+				},
+				{
+					"name":"Psycho-Pass",
+					"url":"https://myanimelist.net/recommendations/anime/1-13601"
+				},
+				{
+					"name":"Gintama",
+					"url":"https://myanimelist.net/recommendations/anime/1-918"
+				},
+				{
+					"name":"Megalo Box",
+					"url":"https://myanimelist.net/recommendations/anime/1-36563"
+				},
+				{
+					"name":"Koukaku Kidoutai: Stand Alone Complex",
+					"url":"https://myanimelist.net/recommendations/anime/1-467"
+				},
+				{
+					"name":"Lupin III",
+					"url":"https://myanimelist.net/recommendations/anime/1-1412"
+				},
+				{
+					"name":"Kekkai Sensen",
+					"url":"https://myanimelist.net/recommendations/anime/1-24439"
+				},
+				{
+					"name":"Neon Genesis Evangelion",
+					"url":"https://myanimelist.net/recommendations/anime/1-30"
+				},
+				{
+					"name":"Great Pretender",
+					"url":"https://myanimelist.net/recommendations/anime/1-40052"
+				},
+				{
+					"name":"Ergo Proxy",
+					"url":"https://myanimelist.net/recommendations/anime/1-790"
+				},
+				{
+					"name":"Code Geass: Hangyaku no Lelouch",
+					"url":"https://myanimelist.net/recommendations/anime/1-1575"
+				},
+				{
+					"name":"Black Cat (TV)",
+					"url":"https://myanimelist.net/recommendations/anime/1-68"
+				},
+				{
+					"name":"The Big O",
+					"url":"https://myanimelist.net/recommendations/anime/1-567"
+				},
+				{
+					"name":"Cannon Busters",
+					"url":"https://myanimelist.net/recommendations/anime/1-40256"
+				}
+			],
+			"aired":"Apr 3, 1998 to Apr 24, 1999",
+			"source":"Original",
+			"broadcast":"Saturdays at 01:00 (JST)",
+			"premier":[
+				{
+					"at":"Spring 1998",
+					"url":"https://myanimelist.net/anime/season/1998/spring"
+				}
+			],
+			"genres":[
+				{
+					"name":"Action",
+					"url":"https://myanimelist.net/anime/genre/1/Action"
+				},
+				{
+					"name":"Sci-Fi",
+					"url":"https://myanimelist.net/anime/genre/24/Sci-Fi"
+				},
+				{
+					"name":"Adult_Cast",
+					"url":"https://myanimelist.net/anime/genre/50/Adult_Cast"
+				},
+				{
+					"name":"Space",
+					"url":"https://myanimelist.net/anime/genre/29/Space"
+				}
+			],
+			"producers":[
+				{
+					"name":"Bandai_Visual",
+					"url":"https://myanimelist.net/anime/producer/23/Bandai_Visual"
+				},
+				{
+					"name":"Funimation",
+					"url":"https://myanimelist.net/anime/producer/102/Funimation"
+				},
+				{
+					"name":"Bandai_Entertainment",
+					"url":"https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+				},
+				{
+					"name":"Sunrise",
+					"url":"https://myanimelist.net/anime/producer/14/Sunrise"
+				}
+			]
+		}
+	}
+]
